@@ -18,7 +18,7 @@ Preparation of "README.md" file referenced from DeepLineDP at this [github](http
 3. **Install required libraries in conda environment:**
 
     ```bash
-    conda env create -f requirements.yml
+    conda env create -f environment.yaml
     conda activate LineFlowDP
     ```
 
