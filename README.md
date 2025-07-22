@@ -92,7 +92,7 @@ python 3.dot_to_txt.py
     python ./doc2vec/4.flow_information_extension.py
     ```
  
-- **Word Embedding**: Run **train_doc2vec_model.py** in the `do2vec` folder to train the corresponding doc2vec model of the project and save it locally, and then run word **embedding.py** in the `do2vec` folder to get the word vectors of the utterances that have been expanded with the stream information and save it as a *.txt* file.
+- **Word Embedding**: Run **train_doc2vec_model.py** in the `do2vec` folder to train the corresponding doc2vec model of the project and save it locally, and then run word **embedding.py** in the `do2vec` folder to get the word vectors of the utterances that have been expanded with the flow information and save it as a *.txt* file.
  
     ```bash
     python ./doc2vec/5.train_doc2vec_model.py
