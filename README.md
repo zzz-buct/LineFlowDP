@@ -10,7 +10,7 @@ Preparation of "README.md" file referenced from DeepLineDP at this [github](http
 1. **Clone the github repository:**
 
     ```bash
-    git clone https://github.com/LineFlowDP/LineFlowDP.git
+    git clone https://github.com/zzz-buct/LineFlowDP.git
     ```
 
 2. **Download the dataset** from this [github](https://github.com/awsm-research/line-level-defect-prediction) and keep it in `datasets/original/`
